@@ -1,5 +1,3 @@
-// Function to change navbar background on scroll
-/*
 function handleScroll() {
     const navbar = document.querySelector('.navbar');
     if (window.scrollY > 50) {
@@ -26,4 +24,3 @@ document.querySelectorAll('.navbar a').forEach(item => {
     item.addEventListener('mouseover', handleHover);
     item.addEventListener('mouseout', handleMouseOut);
 });
-*/
